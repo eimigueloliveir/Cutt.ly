@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cutt_ly", "Cutt_ly\Cutt_ly.csproj", "{B4680368-0678-445E-86DC-D54FDB497A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cutt_lyExamples", "Cutt_lyExamples\Cutt_lyExamples.csproj", "{78B0BBE6-386D-4F2D-B1C2-92AB49B4A3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4680368-0678-445E-86DC-D54FDB497A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4680368-0678-445E-86DC-D54FDB497A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4680368-0678-445E-86DC-D54FDB497A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4680368-0678-445E-86DC-D54FDB497A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B0BBE6-386D-4F2D-B1C2-92AB49B4A3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B0BBE6-386D-4F2D-B1C2-92AB49B4A3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B0BBE6-386D-4F2D-B1C2-92AB49B4A3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B0BBE6-386D-4F2D-B1C2-92AB49B4A3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF2A650-8427-4A6E-A544-53540D3BE507}
+	EndGlobalSection
+EndGlobal
